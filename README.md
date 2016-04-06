@@ -1,5 +1,5 @@
 # Animations-PS160
-Animations for PS160 with Dr. Jeff Sanders at Embry-Riddle Aeronautical University in Daytona Beach, Florida. These animations were created by Courtney Thurston to fulfill an independent research Honors Contract through the Honors Program of ERAU-DB.
+Animations for PS160 (Physics II for Scientists & Engineers) with Dr. Jeff Sanders at Embry-Riddle Aeronautical University in Daytona Beach, Florida. These animations were created by Courtney Thurston to fulfill an independent research Honors Contract through the Honors Program of ERAU-DB.
 
 # OpticsImaging
 The animation is hosted here: http://www.fastswf.com/wRHa2bs
