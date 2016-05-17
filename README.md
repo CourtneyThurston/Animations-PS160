@@ -19,6 +19,21 @@ This animation allows users to change the object distance (try dragging the lens
 
 This is the default case for a lens. The image distance, object distance, focal length, and radius of curvature are all positive for this case. 
 
+# Total Internal Reflection in Optics
+The animation is hosted here: http://www.fastswf.com/CFHtAKQ
+
+This animation allows users to change the angle of incidence (try dragging the upper-left-most ray!) and observe the changes in the critical angle, sometimes causing total internal reflection (occurs when the angle of incidence exceeds the critical angle).
+
+# Simple Harmonic Motion - Circular Motion
+The animation is hosted here: http://www.fastswf.com/d60DlWQ
+
+This animation illustrates the relationship between circular motion and simple harmonic motion, demonstrating that the motion of a ball in uniform circular motion creates simple harmonic oscillation.
+ 
+# Simple Harmonic Motion - Spring Motion
+The animation is hosted here: http://www.fastswf.com/TyP9XJE
+
+This animation illustrates the relationship between spring motion and simple harmonic motion, demonstrating that the motion of a ball attached to a spring creates simple harmonic oscillation.
+
 #License
 Attribution-NonCommercial-ShareAlike 2.5 Generic (CC BY-NC-SA 2.5)
 http://creativecommons.org/licenses/by-nc-sa/2.5/
